@@ -16,7 +16,7 @@ My journey in computer science has led me to develop an interest in cybersecurit
 | WordPress Security Scan Results               | <a href="https://google.com">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Security Assessment Results                   |<a href="https://google.com">Results</a>|
+| Security Assessment Results                   |<a href="https://github.com/twigtech1/twigtech1/issues/1">Results</a>|
 
 ## Tools
 
